@@ -30,3 +30,4 @@ def modeler2D(filename, x_column, y_column):
     plt.show()
 
 
+modeler2D('summary2.xlsx', 'age (years)', 'Central hydrogen mass fraction [Xc]')
